@@ -1,0 +1,15 @@
+{
+  "name": "stories",
+  "version": "1.0.0",
+  "description": "Stories Web App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Robichaud",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
